@@ -278,6 +278,7 @@
 
 ##Contributing
 このガイドラインは仮の案であり、Pull Requestを歓迎します。判断に迷う文章や矛盾している箇所があれば、お気軽にどうぞ。  
+
 1. Fork it!  
 2. Create your feature branch: git checkout -b my-new-feature  
 3. Commit your changes: git commit -am 'Add some feature'  
