@@ -276,6 +276,14 @@
 - "hh:mm"、"@string/disable_overlays"、"0.3.0"（バージョン番号）など、原文と翻訳が完全に一致するものや翻訳してはいけない文章は翻訳しない。
 - "AICP Extras"、"Pulse"などの固有名詞は翻訳しない。
 
+##Contributing
+このガイドラインは仮の案であり、Pull Requestを歓迎します。判断に迷う文章や矛盾している箇所があれば、お気軽にどうぞ。  
+1. Fork it!
+1. Create your feature branch: git checkout -b my-new-feature
+1. Commit your changes: git commit -am 'Add some feature'
+1. Push to the branch: git push origin my-new-feature
+1. Submit a pull request :D
+
 ## License
 
     by Japan Translation Federation (CC BY-SA) www.jtf.jp
